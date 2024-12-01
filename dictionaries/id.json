@@ -31,17 +31,17 @@
         {
           "title": "Fakultas Ilmu Komputer",
           "description": "Fakultas Ilmu Komputer memiliki program studi Teknik Informatika, Sistem Informasi, dan Teknologi Informasi. Fakultas ini memiliki fasilitas laboratorium yang lengkap dan didukung oleh dosen yang berpengalaman di bidangnya.",
-          "profile": "/img/fakultas1.jpg"
+          "profile": "/img/bg-teknik.jpg"
         },
         {
           "title": "Fakultas Teknik",
           "description": "Fakultas Teknik memiliki program studi Teknik Elektro, Teknik Mesin, dan Teknik Sipil. Fakultas ini memiliki fasilitas laboratorium yang lengkap dan didukung oleh dosen yang berpengalaman di bidangnya.",
-          "profile": "/img/fakultas2.jpg"
+          "profile": "/img/bg-teknik.jpg"
         },
         {
           "title": "Fakultas Ekonomi",
           "description": "Fakultas Ekonomi memiliki program studi Manajemen, Akuntansi, dan Ekonomi Pembangunan. Fakultas ini memiliki fasilitas laboratorium yang lengkap dan didukung oleh dosen yang berpengalaman di bidangnya.",
-          "profile": "/img/fakultas3.jpg"
+          "profile": "/img/bg-teknik.jpg"
         }
       ]
     },
@@ -51,17 +51,17 @@
         {
           "title":"Sistem Informasi Pendidikan",
           "description":"Sistem Informasi Pendidikan adalah kursus yang berfokus pada pengembangan dan implementasi sistem informasi di bidang pendidikan.",
-          "profile":"/img/course1.jpg"
+          "profile":"/img/bg-teknik.jpg"
         },
         {
           "title":"Manajemen Proyek Teknologi Informasi",
           "description":"Manajemen Proyek Teknologi Informasi adalah kursus yang berfokus pada manajemen proyek teknologi informasi, termasuk perencanaan, pelaksanaan, dan evaluasi.",
-          "profile":"/img/course2.jpg"
+          "profile":"/img/bg-teknik.jpg"
         },
         {
           "title":"Teknik Animasi",
           "description":"Teknik Animasi adalah kursus yang berfokus pada prinsip dan teknik animasi, termasuk animasi 2D dan 3D.",
-          "profile":"/img/course3.jpg"
+          "profile":"/img/bg-teknik.jpg"
         }
         
       ]

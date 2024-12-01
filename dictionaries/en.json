@@ -31,17 +31,17 @@
         {
           "title": "Faculty of Computer Science",
           "description": "The Faculty of Computer Science offers programs in Computer Engineering, Information Systems, and Information Technology. The faculty is equipped with state-of-the-art laboratories and experienced faculty members.",
-          "profile": "/img/fakultas1.jpg"
+          "profile": "/img/bg-teknik.jpg"
         },
         {
           "title": "Faculty of Engineering",
           "description": "The Faculty of Engineering offers programs in Electrical Engineering, Mechanical Engineering, and Civil Engineering. The faculty is equipped with state-of-the-art laboratories and experienced faculty members.",
-          "profile": "/img/fakultas2.jpg"
+          "profile": "/img/bg-teknik.jpg"
         },
         {
           "title": "Faculty of Economics",
           "description": "The Faculty of Economics offers programs in Management, Accounting, and Development Economics. The faculty is equipped with state-of-the-art laboratories and experienced faculty members.",
-          "profile": "/img/fakultas3.jpg"
+          "profile": "/img/bg-teknik.jpg"
         }
       ]
     },
@@ -51,17 +51,17 @@
         {
           "title": "Education Information System",
           "description": "Education Information System is a course that focuses on the development and implementation of information systems in the field of education.",
-          "profile": "/img/course1.jpg"
+          "profile": "/img/bg-teknik.jpg"
         },
         {
           "title": "Information Technology Project Management",
           "description": "Information Technology Project Management is a course that focuses on the management of information technology projects, including planning, execution, and evaluation.",
-          "profile": "/img/course2.jpg"
+          "profile": "/img/bg-teknik.jpg"
         },
         {
           "title": "Animation Techniques",
           "description": "Animation Techniques is a course that focuses on the principles and techniques of animation, including 2D and 3D animation.",
-          "profile": "/img/course3.jpg"
+          "profile": "/img/bg-teknik.jpg"
         }
       ]
     },
