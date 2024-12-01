@@ -22,9 +22,9 @@ const logger = winston.createLogger({
     new winston.transports.Console({
       format: consoleFormat,
     }),
-    // new winston.transports.File({
-    //   filename: `src/lib/_log/${process.env.FILENAME_LOG || "app.log"}`
-    // }),
+    new winston.transports.File({
+      filename: `src/lib/_log/${process.env.FILENAME_LOG || "app.log"}`
+    }),
   ],
 });
 

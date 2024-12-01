@@ -1,15 +1,21 @@
-import { SignIn } from "@/component/SignIn";
-import { getDictionary } from "@/lib/dictionary";
-import Link from "next/link";
+"use server";
 
-export default async function Page({params}) {
-  const {lang} = await params;
-  const dict = await getDictionary(lang);
+import { getDictionary } from "@/lib/dictionary";
+import { headers } from "next/headers";
+import PageControl from "./pageControl";
+
+export default async function Page({ params }) {
+  const { lang } = await params;
+  const language = await getDictionary(lang);
+  const header = await headers();
+  const tokenAPI = header.get("X-Token-API");
+
   return (
-    <div>
-    <h1>Sign in</h1>
-      <h1>{dict.title}</h1>
-      <Link href={`/${lang}/login`} >Login</Link>
-    </div>
+    <>
+      <PageControl language={language} />
+      {/* <h2>{language.home.plan1.title}</h2>
+      <Link href={`/${lang}/login`}>Login</Link>
+      <GetCheck tokenAPI={tokenAPI} /> */}
+    </>
   );
-} 
+}

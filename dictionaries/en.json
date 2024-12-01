@@ -1,3 +1,118 @@
 {
-  "title":"Homepage"
+  "general":{
+    "login": "Login",
+    "register": "Register"
+  },
+  "main": {
+    "plan1": {
+      "title": "Name Of E-Learning",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure"
+    },
+    "plan2": {
+      "title": "E-Learning",
+      "content": [
+        {
+          "title": "Collaborative Discussion",
+          "description": "The collaborative discussion forum facility allows students to interact across departments, ask questions, provide responses, and collaborate on problem solving."
+        },
+        {
+          "title": "Availability of Materials",
+          "description": "Ensuring accessibility of learning materials around the clock, from anywhere. Whether it's videos, e-books, or quizzes, all materials can be accessed at any time that suits the student's needs."
+        },
+        {
+          "title": "Gamification",
+          "description": "Delivering a more fun and motivating learning experience through gamification. Students who actively participate in discussions and complete assignments will be rewarded with badges, levels or rewards."
+        }
+      ]
+    },
+    "plan3": {
+      "title": "Faculties",
+      "content": [
+        {
+          "title": "Faculty of Computer Science",
+          "description": "The Faculty of Computer Science offers programs in Computer Engineering, Information Systems, and Information Technology. The faculty is equipped with state-of-the-art laboratories and experienced faculty members.",
+          "profile": "/img/fakultas1.jpg"
+        },
+        {
+          "title": "Faculty of Engineering",
+          "description": "The Faculty of Engineering offers programs in Electrical Engineering, Mechanical Engineering, and Civil Engineering. The faculty is equipped with state-of-the-art laboratories and experienced faculty members.",
+          "profile": "/img/fakultas2.jpg"
+        },
+        {
+          "title": "Faculty of Economics",
+          "description": "The Faculty of Economics offers programs in Management, Accounting, and Development Economics. The faculty is equipped with state-of-the-art laboratories and experienced faculty members.",
+          "profile": "/img/fakultas3.jpg"
+        }
+      ]
+    },
+    "plan4": {
+      "title": "Courses",
+      "content": [
+        {
+          "title": "Education Information System",
+          "description": "Education Information System is a course that focuses on the development and implementation of information systems in the field of education.",
+          "profile": "/img/course1.jpg"
+        },
+        {
+          "title": "Information Technology Project Management",
+          "description": "Information Technology Project Management is a course that focuses on the management of information technology projects, including planning, execution, and evaluation.",
+          "profile": "/img/course2.jpg"
+        },
+        {
+          "title": "Animation Techniques",
+          "description": "Animation Techniques is a course that focuses on the principles and techniques of animation, including 2D and 3D animation.",
+          "profile": "/img/course3.jpg"
+        }
+      ]
+    },
+    "footer": {
+      "contact": {
+        "title": "Contact Us",
+        "content": [
+          {
+            "title": "Address",
+            "description": "Jl. Raya Bandung-Sumedang KM. 21, Jatinangor, Sumedang, West Java, Indonesia"
+          },
+          {
+            "title": "Phone",
+            "description": "(+62) 22 779 4546"
+          },
+          {
+            "title": "Email",
+            "description": "example@kocak.com"
+          }
+        ]
+      },
+      "social": {
+        "title": "Social Media",
+        "content": [
+          {
+            "title": "Facebook",
+            "link": "https://www.facebook.com/"
+          },
+          {
+            "title": "Instagram",
+            "link": "https://www.instagram.com/"
+          },
+          {
+            "title": "Twitter",
+            "link": "https://twitter.com/"
+          }
+        ]
+      },
+      "another": {
+        "title": "Another",
+        "content": [
+          {
+            "title": "Privacy Policy",
+            "link": "/privacy"
+          },
+          {
+            "title": "Terms of Service",
+            "link": "/terms"
+          }
+        ]
+      }
+    }
+  }
 }
