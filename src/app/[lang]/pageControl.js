@@ -3,7 +3,7 @@
 import Footer from "@/component/template/footer";
 import Header from "@/component/template/header";
 import { SessionProvider } from "next-auth/react";
-import Main from "./main";
+import Main from "../../component/template/main";
 import { useState } from "react";
 
 export default function PageControl({language, user}) {
